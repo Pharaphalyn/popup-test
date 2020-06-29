@@ -1,7 +1,8 @@
 {
   "name": "PopupTest",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
