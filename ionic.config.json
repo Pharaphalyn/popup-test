@@ -1,0 +1,7 @@
+{
+  "name": "PopupTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
